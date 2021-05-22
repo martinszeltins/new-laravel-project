@@ -16,15 +16,7 @@
             />
 
             <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
-                <blockquote>
-                    <p class="text-lg font-semibold">
 
-                    </p>
-                </blockquote>
-
-                <figcaption class="font-medium">
-
-                </figcaption>
             </div>
         </div>
     </body>
