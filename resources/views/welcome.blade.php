@@ -23,13 +23,7 @@
                 </blockquote>
 
                 <figcaption class="font-medium">
-                    <div class="text-cyan-600">
-                        Sarah Dayan
-                    </div>
 
-                    <div class="text-gray-500">
-                        Staff Engineer, Algolia
-                    </div>
                 </figcaption>
             </div>
         </div>
